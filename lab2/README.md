@@ -41,3 +41,11 @@ topology:
         - endpoints: ["R02_brl:eth4", "PC2:eth4"]
         - endpoints: ["R03_frt:eth4", "PC3:eth2"]
 ```
+С помощью containerlab graph была построена следующая схема лабы:
+<img width="863" alt="topology" src="https://github.com/user-attachments/assets/7555b096-465f-40de-8dd1-25106442ba3e" />
+
+
+
+Проверим пинги с PC01 к PC02 и PC03. Все проходит успешно.
+
+<img width="564" alt="ping1" src="https://github.com/user-attachments/assets/7d003d35-1e0e-47ac-9195-b8b4e2d55952" />
