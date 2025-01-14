@@ -7,10 +7,13 @@
 Конфиги устройств находятся в папке configs_part1
 # Проверка работоспособности устройств
 NY
+
 <img width="516" alt="NY" src="https://github.com/user-attachments/assets/5210d516-16e8-42e0-ad1f-1a4cbb9f540e" />
 SPB
+
 <img width="476" alt="SPB" src="https://github.com/user-attachments/assets/e0241bfe-4098-4d0f-86ae-ddc03b06220b" />
 SVL
+
 <img width="513" alt="SVL" src="https://github.com/user-attachments/assets/22188e4c-ed9e-446e-8c27-a8f03f8da4cc" />
 
 # Вторая часть
