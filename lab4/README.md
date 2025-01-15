@@ -1,3 +1,21 @@
+University: ITMO University
+
+Faculty: FICT
+
+Course: Introduction in routing
+
+Year: 2024/2025
+
+Group: K3320
+
+Author: Urazalin Amir
+
+Lab: Lab4
+
+Date of create: 14.12.2024
+
+Date of finished: 14.12.2024
+
 ## Лабораторная работа 4
 
 Основная схема сети, построенная через container graph
