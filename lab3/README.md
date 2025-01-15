@@ -1,3 +1,21 @@
+University: ITMO University
+
+Faculty: FICT
+
+Course: Introduction in routing
+
+Year: 2024/2025
+
+Group: K3320
+
+Author: Urazalin Amir
+
+Lab: Lab3
+
+Date of create: 13.12.2024
+
+Date of finished: 13.12.2024
+
 ## Лабораторная работа 3
 # Конфиги
 Были написаны конфиги для каждого из устройств, посмотреть можно в папке configs.
