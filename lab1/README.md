@@ -1,3 +1,21 @@
+University: ITMO University
+
+Faculty: FICT
+
+Course: Introduction in routing
+
+Year: 2024/2025
+
+Group: K3320
+
+Author: Urazalin Amir
+
+Lab: Lab2
+
+Date of create: 11.10.2024
+
+Date of finished: 11.10.2024
+
 # 2024_2025-introduction_in_routing
 
 ## Топология сети 
