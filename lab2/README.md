@@ -1,3 +1,21 @@
+University: ITMO University
+
+Faculty: FICT
+
+Course: Introduction in routing
+
+Year: 2024/2025
+
+Group: K3320
+
+Author: Urazalin Amir
+
+Lab: Lab2
+
+Date of create: 11.12.2024
+
+Date of finished: 11.12.2024
+
 ## Лабораторная номер 2
 # Конфигурация clab
 
