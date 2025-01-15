@@ -10,7 +10,7 @@ Group: K3320
 
 Author: Urazalin Amir
 
-Lab: Lab2
+Lab: Lab1
 
 Date of create: 11.10.2024
 
